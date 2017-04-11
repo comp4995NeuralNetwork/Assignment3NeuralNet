@@ -1,0 +1,8 @@
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\bin\Debug\NeauralNetworkApp.exe.config
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\bin\Debug\NeauralNetworkApp.exe
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\bin\Debug\NeauralNetworkApp.pdb
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\bin\Debug\NeauralNetwork.dll
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\bin\Debug\NeauralNetwork.pdb
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\obj\Debug\NeauralNetworkApp.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\obj\Debug\NeauralNetworkApp.exe
+c:\users\brandon\documents\visual studio 2015\Projects\NeauralNetwork\NeauralNetworkApp\obj\Debug\NeauralNetworkApp.pdb
