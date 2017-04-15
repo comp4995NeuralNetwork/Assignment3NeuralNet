@@ -409,8 +409,8 @@ namespace NeuralNetwork
             s = u * u + v * v;
             t = Math.Sqrt(-2.0 * Math.Log(s)/s);
 
-            val1 = stdDev * u * t * mean;
-            val2 = stdDev * v * t * mean;
+            val1 = stdDev * u * t + mean;
+            val2 = stdDev * v * t + mean;
         }
     }
 }
